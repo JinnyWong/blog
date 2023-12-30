@@ -4,25 +4,16 @@
   <url>
     <loc>https://blog.jinny.work/about/index.html</loc>
     
-    <lastmod>2023-12-15</lastmod>
+    <lastmod>2023-12-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.jinny.work/amsib-challenge-2022/</loc>
+    <loc>https://blog.jinny.work/quant-skills/</loc>
     
-    <lastmod>2023-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.jinny.work/whats-on-my-pc/</loc>
-    
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2023-12-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
   <url>
     <loc>https://blog.jinny.work/tags/index.html</loc>
     
-    <lastmod>2022-04-13</lastmod>
+    <lastmod>2023-12-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +31,7 @@
   <url>
     <loc>https://blog.jinny.work/categories/index.html</loc>
     
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2023-12-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,14 +47,7 @@
 
   
   <url>
-    <loc>https://blog.jinny.work/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.jinny.work/tags/%E5%95%86%E8%B5%9B/</loc>
+    <loc>https://blog.jinny.work/tags/Quant/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -72,14 +56,7 @@
 
   
   <url>
-    <loc>https://blog.jinny.work/categories/%E6%9C%89%E8%B6%A3/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.jinny.work/categories/%E6%AF%94%E8%B5%9B/</loc>
+    <loc>https://blog.jinny.work/categories/Quant/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

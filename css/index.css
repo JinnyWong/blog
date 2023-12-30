@@ -1334,8 +1334,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 17px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #dbdde2;
-  --hr-before-color: #cccfd6;
+  --hr-border: #aeb2bf;
+  --hr-before-color: #8e93a5;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -1372,7 +1372,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: Playfair Display, Noto Serif SC;
+  font-family: PT Serif, Noto Serif SC;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -2100,7 +2100,7 @@ figure.highlight pre .javascript .function {
   border-color: var(--pseudo-hover);
 }
 .article-sort-item-time {
-  color: #b6bbc4;
+  color: #61677a;
   font-size: 95%;
 }
 .article-sort-item-time time {
@@ -2159,7 +2159,7 @@ figure.highlight pre .javascript .function {
 }
 .category-lists .category-list .category-list-count {
   margin-left: 8px;
-  color: #b6bbc4;
+  color: #61677a;
 }
 .category-lists .category-list .category-list-count:before {
   content: '(';
@@ -2512,7 +2512,7 @@ figure.highlight pre .javascript .function {
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
   margin: 6px 0;
-  color: #b6bbc4;
+  color: #61677a;
   font-size: 90%;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .post-meta-date {
@@ -2534,7 +2534,7 @@ figure.highlight pre .javascript .function {
   margin: 0 4px;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a {
-  color: #b6bbc4;
+  color: #61677a;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a:hover {
   color: #31304d;
@@ -2741,7 +2741,7 @@ h1.page-title + .tag-cloud-list {
 #aside-content .aside-list > .aside-list-item .content > time,
 #aside-content .aside-list > .aside-list-item .content > .name {
   display: block;
-  color: #b6bbc4;
+  color: #61677a;
   font-size: 85%;
 }
 #aside-content .aside-list > .aside-list-item .content > .title,
@@ -3846,7 +3846,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #b6bbc4;
+  color: #596fb7;
 }
 #article-container a:hover {
   text-decoration: underline;
