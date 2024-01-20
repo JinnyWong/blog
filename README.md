@@ -97,12 +97,10 @@ hexo deploy
   
   - [解决 HTTP/2 stream 1 was not closed cleanly before end of the underlying stream-CSDN博客](https://blog.csdn.net/zz00008888/article/details/123529805)
   
-  - [[解决 Failed to connect to github.com port 443:connection timed out-CSDN博客](https://blog.csdn.net/Hodors/article/details/103226958)](https://blog.csdn.net/zpf1813763637/article/details/128340109?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~activity-1-128340109-blog-null.262^v1^pc_404_mixedpudn&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~activity-1-128340109-blog-null.262^v1^pc_404_mixedpud)
+  - [解决 Failed to connect to github.com port 443:connection timed out-CSDN博客](https://blog.csdn.net/Hodors/article/details/103226958)
 
 ```shell
 git config --global http.version HTTP/1.1
 git config --global --unset http.proxy
 git config --global --unset https.proxy
-
-
 ```
