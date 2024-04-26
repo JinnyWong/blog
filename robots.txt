@@ -12,4 +12,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://jinnywong.github.io/blog/sitemap.xml
+Sitemap: https://blog.jinny.work/sitemap.xml
